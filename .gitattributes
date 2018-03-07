@@ -1,1 +1,9 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+notwaldo.csv
+old/notwaldo64.csv
+allwaldo64.csv
+all_waldo64.csv
+new_waldo64.csv
+notwaldo128.csv
+all_waldo128.csv
+con_waldo64.csv
